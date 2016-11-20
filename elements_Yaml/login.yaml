@@ -1,0 +1,18 @@
+clickLogin:
+  type: linkText
+  value: 亲，请登录
+clickPwLogin:
+  type: xpath
+  value: "//a[.='密码登录']"
+clickPicture:
+  type: id
+  value: J_Quick2Static
+userName:
+  type: id
+  value: TPL_username_1
+userPw:
+  type: id
+  value: TPL_password_1
+sumit:
+  type: id
+  value: J_SubmitStatic
